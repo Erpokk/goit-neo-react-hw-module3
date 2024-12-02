@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  border-radius: 6px;
+  border: 1px solid black;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.info {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+}

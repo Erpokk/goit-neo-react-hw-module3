@@ -1,0 +1,13 @@
+.searchInp {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 375px;
+
+  padding: 10px 0;
+  margin-bottom: 20px;
+  & input {
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+}
